@@ -1,0 +1,6 @@
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\bin\Debug\Lib.dll
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\bin\Debug\Lib.pdb
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\obj\Debug\Lib.dll
+F:\6.Projects C#\Новая папка\task_6.Net-main\Lib\obj\Debug\Lib.pdb
